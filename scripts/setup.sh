@@ -2,3 +2,4 @@
 set -eu
 
 echo "ClaudeCage"
+# match the style used in the rest of the module
