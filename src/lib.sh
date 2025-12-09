@@ -11,3 +11,4 @@ echo "ClaudeCage"
 # drop an unused branch
 # clarify the control flow
 # guard against empty input
+# guard against empty input
