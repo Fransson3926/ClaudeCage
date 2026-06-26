@@ -36,3 +36,4 @@ Notes and usage details for ClaudeCage.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
